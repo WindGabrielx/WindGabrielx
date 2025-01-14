@@ -1,4 +1,4 @@
-## Hi! My name is Gabriel Welcome to my Github profile 👋✨
+## Hi! My name is Gabriel Welcome, to my Github profile 👋✨
 
 💬 Hi please let me introduct myself My name is Gabriel you can call me Wind.Currently I'm Senior Application Engineer responsible for overseeing 3D, 2D, and Vision AI inspection systems at Solomon Teachnology Thailand, as well as conducting machine inspections to assess the quality of customer products and solutions. Additionally, I manage Pick and Place operations using robotic arm technology and perform calibration for the robotic arm.
 
