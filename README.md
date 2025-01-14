@@ -1,4 +1,4 @@
-## Hi! My name is Gabriel Welcome, to my Github profile 👋✨
+# Hi! My name is Gabriel Welcome, to my Github profile 👋✨
 
 💬 Hi please let me introduct myself My name is Gabriel you can call me Wind.Currently I'm Senior Application Engineer responsible for overseeing 3D, 2D, and Vision AI inspection systems at Solomon Teachnology Thailand, as well as conducting machine inspections to assess the quality of customer products and solutions. Additionally, I manage Pick and Place operations using robotic arm technology and perform calibration for the robotic arm.
 
@@ -9,9 +9,13 @@
 💬 <สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานที่ Solomon Teachnology Thailand ทำหน้าที่ในตำแหน่ง Senior Application Engineer 
 รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามมองหางาน Data Engineer กับ Data Analyst ใน Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบอื่นๆครับ 😄>
 
+## QUOTES
+> ✨Always believe in yourself, no matter what others think, and place your hope in God.
+> - Discipline and Consistency is the key to success
 
-### GET IN TOUCH 👀
-👉 [Linkedin](https://www.linkedin.com/in/gabriel-phorncharoenmusikul-9b863b271/)
+
+## GET IN TOUCH 👀
+> 👉 [Linkedin](https://www.linkedin.com/in/gabriel-phorncharoenmusikul-9b863b271/)
 
 
 
