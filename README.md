@@ -12,7 +12,7 @@
 
 # GET IN TOUCH 👀
 👉 [Linkedin](https://www.linkedin.com/in/gabriel-phorncharoenmusikul-9b863b271/)
-
+👉 [Email](gabriel.pcmk@hotmail.com)
 
 
 
