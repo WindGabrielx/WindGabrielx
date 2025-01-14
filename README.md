@@ -6,20 +6,14 @@
 
 🌱 Otherwise, I am seeking a role as a Data Engineer or Data Analyst . I hope to learn and grow within a company that has an effective system, where I can apply my skills and continue developing them for the future.
 
-<สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานที่ Solomon Teachnology Thailand ทำหน้าที่ในตำแหน่ง Senior Application Engineer 
+💬 <สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานที่ Solomon Teachnology Thailand ทำหน้าที่ในตำแหน่ง Senior Application Engineer 
 รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามมองหางาน Data Engineer กับ Data Analyst ใน Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบอื่นๆครับ 😄>
 
-<!-- 
-**WindGabrielx/WindGabrielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# GET IN TOUCH 👀
+ [Linkedin] : [https://www.linkedin.com/feed/](https://www.linkedin.com/in/gabriel-phorncharoenmusikul-9b863b271/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
