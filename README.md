@@ -71,6 +71,6 @@
 
 
 ---
-![Snake animation](https://raw.githubusercontent.com/WingGabrielx/WindGabrielx/output/github-contribution-grid-snake-dark.svg)
+
 
 
