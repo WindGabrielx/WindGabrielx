@@ -13,9 +13,10 @@
 รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามพัฒนาตัวเองและมองหางานด้าน Data Engineer กับ Data Analyst ใน Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบหรือทดลองอื่นๆครับ 😄>
 
 
-<p align="left">
-  
-<a href="https://github.com/WindGabrielx?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WindGabrielx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  <a href="https://github.com/WindGabrielx"> ![Visitor Count](https://komarev.com/ghpvc/?username=WindGabrielx&color=55960c&style=for-the-badge&label=Profile%20Views)
+<p align="right"> <a href="https://github.com/WindGabrielx?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WindGabrielx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
+
+  <img align="right" alt="Visitor Count" title="Visitors to my profile" src="https://komarev.com/ghpvc/?username=WindGabrielx&color=55960c&style=for-the-badge&label=Profile%20Views">
+</a>
 
 
 
