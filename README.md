@@ -50,6 +50,11 @@
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/)
 [![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GCP](https://custom-icon-badges.demolab.com/badge/-Google%20Cloud-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+[![SolidWorks](https://custom-icon-badges.demolab.com/badge/-SolidWorks-0A4B67?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
+[![Arduino](https://custom-icon-badges.demolab.com/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![Autodesk Inventor Professional](https://custom-icon-badges.demolab.com/badge/-Inventor%20Professional-F1C232?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/inventor/overview)
+[![Siemens PLC](https://custom-icon-badges.demolab.com/badge/-Siemens%20PLC-009C8C?style=for-the-badge&logo=siemens&logoColor=white)](https://new.siemens.com/global/en/products/automation.html)
+[![MATLAB](https://custom-icon-badges.demolab.com/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 
 
 
