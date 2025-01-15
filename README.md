@@ -27,7 +27,7 @@
 
 #
 
-### Languages and Tools
+## Languages and Tools
 
 [![Microsoft SQL](https://custom-icon-badges.demolab.com/badge/-Microsoft%20SQL-A00000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fsql%2F)](https://learn.microsoft.com/en-us/sql/)
 [![MongoDB](https://custom-icon-badges.demolab.com/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
@@ -48,7 +48,7 @@
 
 
 
-
+#
 
 
 
@@ -61,9 +61,8 @@
 
 
 
+---
 
-
-#
 
 ## GET IN TOUCH 👀
 > 👉 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgabriel-phorncharoenmusikul-9b863b271%2F)](https://www.linkedin.com/in/gabriel-phorncharoenmusikul-9b863b271/) , [![Email](https://custom-icon-badges.demolab.com/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:gabriel.pcmk@hotmail.com)](mailto:gabriel.pcmk@hotmail.com)
