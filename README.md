@@ -47,6 +47,11 @@
 [![Git Bash](https://custom-icon-badges.demolab.com/badge/-Git%20Bash-4C9FD9?style=for-the-badge&logo=gitbash&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/)
 [![GitHub](https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2F)](https://github.com/)
 [![Git](https://custom-icon-badges.demolab.com/badge/-Git-F1502F?style=for-the-badge&logo=git&logoColor=white&link=https%3A%2F%2Fgit-scm.com%2F)](https://git-scm.com/)
+[![Docker](https://custom-icon-badges.demolab.com/badge/-Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GCP](https://custom-icon-badges.demolab.com/badge/-Google%20Cloud-1a73e8?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
+
+
+
 
 
 
