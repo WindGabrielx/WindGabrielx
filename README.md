@@ -1,16 +1,22 @@
 # Hi! My name is Gabriel Welcome, to my Github profile 👋✨
 **`SENIOR APPLICAITON ENGINEER`**
 
-💬 Hi please let me introduct myself My name is Gabriel you can call me Wind.Currently I'm Senior Application Engineer responsible for overseeing 3D, 2D, and Vision AI inspection systems at Solomon Teachnology Thailand, as well as conducting machine inspections to assess the quality of customer products and solutions. Additionally, I manage Pick and Place operations using robotic arm technology and perform calibration for the robotic arm.
+💬 Hi! My name is Gabriel. I am currently a Data Analyst at I&I Venture Co., Ltd, a subsidiary of I&I Group.
 
-- As part of my role, I collaborate with various companies to complete project tasks and often travel to different locations for service purposes. I also work closely with colleagues in Taiwan to ensure the successful completion of projects, using English as our primary language of communication. Furthermore, I am involved in selecting appropriate lighting, lenses, and camera brands tailored to each project's requirements. Occasionally, I also participate in designing or reviewing machines.
+- As part of my past experience in this role, I was responsible for overseeing 3D, 2D, and Vision AI inspection systems and training models to meet project and customer requirements. I also designed machine inspection processes to assess the quality of customer products and solutions. Additionally, I managed Pick and Place operations using robotic arm technology and performed calibration for robotic arms.
+
+I collaborated with various companies to complete project tasks and frequently traveled to different locations for service purposes. I also worked closely with colleagues in Taiwan, using English as our primary language of communication, to ensure the successful completion of projects. Furthermore, I was involved in selecting appropriate lighting, lenses, and camera brands tailored to each project's requirements. Occasionally, I also participated in designing or reviewing machines.
+
+I hope to learn and grow within a company that has an effective system, where I can apply my skills and continue developing them for the future.
 
 🌱 Otherwise, I am trying to change my career path and focus on seeking a role as a  **`DATA ENGINEER OR DATA ANALYST `** . I hope to learn and grow within a company that has an effective system, where I can apply my skills and continue developing them for the future So that's why my repository is related to data work.
 
 #
 
-💬 <สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานที่ Solomon Teachnology Thailand ทำหน้าที่ในตำแหน่ง Senior Application Engineer 
-รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามพัฒนาตัวเองและมองหางานด้าน Data Engineer กับ Data Analyst ใน Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบหรือทดลองอื่นๆครับ 😄>
+💬 <สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานเป็น Data Analyst ที่ I&I Venture co,. ltd>
+
+ประสบการณ์เดิมเคยทำตำแหน่ง Senior Application Engineer ที่ Solomon Teachnology Thailand 
+รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามพัฒนาตัวเองในด้าน Data Engineer กับ Data Analyst ซึ่ง Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบหรือทดลองอื่นๆครับ 😄>
 
 
 <p align="right"> <a href="https://github.com/WindGabrielx?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WindGabrielx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
