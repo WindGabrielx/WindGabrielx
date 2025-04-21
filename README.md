@@ -1,5 +1,5 @@
 # Hi! My name is Gabriel Welcome, to my Github profile 👋✨
-**`SENIOR APPLICAITON ENGINEER`**
+- I'm currently working as a  **`Data Analyst`**, with a background as a **`SENIOR APPLICAITON ENGINEER`**
 
 💬 Hi! My name is Gabriel. I am currently a Data Analyst at I&I Venture Co., Ltd, a subsidiary of I&I Group.
 
