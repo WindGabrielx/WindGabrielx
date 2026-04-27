@@ -19,7 +19,7 @@ I hope to learn and grow within a company that has an effective system, where I 
 💬 <สวัสดีครับผมชื่อกาเบรียลนะครับ ชื่อเล่นชื่อวินด์ ปัจจุบันทำงานเป็น Data Analyst ที่ I&I Venture co,. ltd>
 
 ประสบการณ์เดิมเคยทำตำแหน่ง Senior Application Engineer ที่ Solomon Teachnology Thailand 
-รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามพัฒนาตัวเองในด้าน Data Engineer กับ Data Analyst ซึ่ง Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบหรือทดลองอื่นๆครับ 😄>
+รับผิดชอบในส่วนของ 2D Inspection system กับ 3D Inspection ปัจจุบันกำลังพยายามพัฒนาตัวเองในด้านสายงาน Data ซึ่ง Github นี้จะเป็นตัวรวบรวมสำหรับผลงาน และ คอร์สรวมถึงการทดสอบหรือทดลองอื่นๆครับ 😄>
 
 
 <p align="right"> <a href="https://github.com/WindGabrielx?tab=followers"><img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/WindGabrielx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>  
