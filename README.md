@@ -64,7 +64,8 @@ I hope to learn and grow within a company that has an effective system, where I 
 [![Autodesk Inventor Professional](https://custom-icon-badges.demolab.com/badge/-Inventor%20Professional-F1C232?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/inventor/overview)
 [![Siemens PLC](https://custom-icon-badges.demolab.com/badge/-Siemens%20PLC-009C8C?style=for-the-badge&logo=siemens&logoColor=white)](https://new.siemens.com/global/en/products/automation.html)
 [![MATLAB](https://custom-icon-badges.demolab.com/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
-
+[![Mage.ai](https://custom-icon-badges.demolab.com/badge/-Mage.ai-7C3AED?style=for-the-badge&logo=mage&logoColor=white)](https://www.mage.ai/)
+[![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
 
