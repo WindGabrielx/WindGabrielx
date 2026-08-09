@@ -1,5 +1,5 @@
 # Hi! My name is Gabriel Welcome, to my Github profile 👋✨
-- I'm currently working as a  **`Data Analyst`**, with a background as a **`SENIOR APPLICAITON ENGINEER`**
+- I'm currently working as a  **`Data Engineer`**, with a background as a **`SENIOR APPLICAITON ENGINEER` and `Data Analyst AI-Dept`**
 
 **`This GitHub is mainly for personal use, but most of the tasks and projects I work on are in GitHub Or GitLab Enterprise`**
 
