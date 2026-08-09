@@ -3,7 +3,7 @@
 
 **`This GitHub is mainly for personal use, but most of the tasks and projects I work on are in GitHub Or GitLab Enterprise`**
 
-💬 Hi! My name is Gabriel. I am currently a Data Analyst at I&I Venture Co., Ltd, a subsidiary of I&I Group.
+💬 Hi! My name is Gabriel. I am currently a Data Engineer at Sirisoft Co., Ltd
 
 - As part of my past experience in this role, I was responsible for overseeing 3D, 2D, and Vision AI inspection systems and training models to meet project and customer requirements. I also designed machine inspection processes to assess the quality of customer products and solutions. Additionally, I managed Pick and Place operations using robotic arm technology and performed calibration for robotic arms.
 
